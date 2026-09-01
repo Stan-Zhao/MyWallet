@@ -2,6 +2,10 @@
 
 This is a **React-based** static web clone project, primarily a recreation of the **Dodo official website**. The project is developed using **JavaScript**, styled with **Tailwind CSS** utility classes, and animated with **GSAP**. This serves as a practice project during my self-learning journey to enhance my frontend development skills.
 
+## Demo
+
+[![Watch Demo](docs/demo.gif)](demo.mov)
+
 ## 🚀 Tech Stack
 
 - **React** - Used for building component-based frontend applications  
